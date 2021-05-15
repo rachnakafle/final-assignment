@@ -2,7 +2,7 @@
 @media(max-width: 500px) {
     #navbar {
       flex-direction: column;
-      align-items: center;
+      align-items: center; 
     } 
   
     #navbar .logo {
@@ -14,7 +14,6 @@
     }
   
     #showcase .showcase-content {
-      /* top: 110px; */
       height: 900px;
     }
 
@@ -37,11 +36,8 @@
         padding:0.5rem;
     }
    
-    /* what you should have */
+  /* what you should have */
 
-    
-  /* 
-    ************what you should have********************   */
   #what .items {
     display:block;
     justify-content:flex-start;
@@ -61,7 +57,7 @@
     }
 
 
-  /* ***************timeline************************** */
+  /* Timeline Section */
 
   .container {
     display:block;
